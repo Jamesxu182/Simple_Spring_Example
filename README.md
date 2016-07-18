@@ -7,11 +7,14 @@
   The Spring Framework is a kind of specific and unique web application for J2EE. There are many features and characteristics that rarely appear in other framework, such as IoC(Inversion of Control), DI(dependency Injection) and AOP(Aspect Oriented Programming). you may confuse about the concept but don't be afraid, hope you find it out with this example.
 
 * Programming and Technique
+
   1. Java 2 Enterprise Edition(J2EE)
 
   2. Spring Framework 4
 
   3. Maven
+
+  4. MVC(Model, View & Controller)
 
 * Tools
 
@@ -24,6 +27,7 @@
 * Implementation
 
   1. Router
+
     Show Dynamic JSP(Java Server Page) with particular URL from browser.
 
     [http://localhost:8080/test](http://localhost:8080/test)
@@ -34,7 +38,7 @@
   3. Parameter transmition
     The content that the user input will be passed to another page. And it will show you the processing of transmiting the parameter from controller to web page(JSP) and show it with EL(Expression Language)
 
-  * Usage, Building & Testing
+* Usage, Building & Testing
 
   This is a executable projection. you could build it with Maven and I provide a pom.xml configure file to help you do this.
 
@@ -48,6 +52,10 @@
 
   [Local URL](http://localhost:8080/test)
 
-  * Misc
+* Misc
 
-    Thank you for your attention. Really looking forward your advice and thought.
+  Thank you for your attention. Really looking forward your advice and thought.
+
+  Best Regards
+
+  __Yifan Xu__
